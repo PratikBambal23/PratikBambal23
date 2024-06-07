@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratikBambal23
-- 👀 I’m interested in Data Science and Engineering and Robotics Process Automation
+- 👀 I’m interested in Data Science and Engineering.
 - 🌱 I’m currently learning Data Science and Engineering 
 - 💞️ I’m looking to collaborate on Data Science and Engineering Projects
 - 📫 Please reach out to on 
